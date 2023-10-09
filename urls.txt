@@ -1,0 +1,3 @@
+http://backend.course#MariiDen
+http://backend.course?name=%22Mariia%20Denkovych%22&github_name=MariiDen&group=%22FeI-21c%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
+https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20210503&json
